@@ -1,0 +1,41 @@
+
+
+body {
+	font-size: 1em; /* 1em=100% */
+	background: #e8e8e8;
+}
+
+h1 {
+	font-size: 5em;
+	font-family: 'Lobster', cursive;
+	color: purple;
+	text-shadow: .05em .05em .2em #333;
+}
+
+h2{
+	font-size: 2em;
+}
+
+h3{
+	font-size: 1.75em;
+	font-weight: normal;
+	font-style: italic;
+}
+
+.nora{
+	background-color: gray;
+	font-family:"Helvetica","Arial", sans-serif;
+}
+
+.helmer{
+	font-family:"Georgia", "Times New Roman", serif;
+}
+
+.nora, .helmer{
+	font-size: .75em;
+}
+
+.character {
+	font-weight: bold;
+	font-style: italic;
+}
